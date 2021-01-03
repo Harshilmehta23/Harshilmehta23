@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on building stunning and responsive web sites using React.js
 - 🌱 I’m currently learning mongoDb and Express.js
 - 👯 I’m looking to collaborate on any exciting freelance project
-- ⚡ Fun fact: I love to play games
+- ⚡ Fun fact: I love to play pc games
 
 **Languages and Tools:**  
 
