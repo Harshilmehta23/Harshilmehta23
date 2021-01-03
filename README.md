@@ -7,8 +7,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshilmehta23&show_icons=true&locale=en&layout=compact" alt="Harshilmehta23" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harshilmehta23&show_icons=true&locale=en" alt="Harshilmehta23" /></p>
 
 [linkedin]: https://www.linkedin.com/in/harshil-mehta-437620145
