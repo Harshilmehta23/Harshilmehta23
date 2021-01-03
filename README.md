@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on any exciting freelance project
 - ⚡ Fun fact: I love to play pc games
 
-**Languages and Tools:**  
+## Languages and Tools:
 
 <code><img height="20" src="https://cdn.vox-cdn.com/thumbor/HFwS18BH4dG7dl5kD37qHK2nemg=/0x2:580x389/1400x1050/filters:focal(0x2:580x389):format(jpeg)/cdn.vox-cdn.com/assets/979932/html5.jpeg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png"></code>
