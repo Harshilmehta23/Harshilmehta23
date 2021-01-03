@@ -17,7 +17,7 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"></code>
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0syl-pMTbiJQw4yW4R0Ll8A3a-K8jAw2M_Q&usqp=CAU"></code>
 
-<br />
+---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harshilmehta23&show_icons=true&locale=en" alt="Harshilmehta23" /></p>
 
